@@ -1,0 +1,10 @@
+faceenv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+*.db
+backend/uploads/*
+frontend/node_modules/
+dist/
+.vite/
